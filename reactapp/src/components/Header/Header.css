@@ -1,0 +1,33 @@
+.navbar-brand span:nth-child(1) {
+    color: green;
+    font-weight: 800;
+    font-size: 25px;
+}
+.navbar-brand span:nth-child(2) {
+    font-size: 18px;
+    color: #c9d1ef;
+    font-weight: 600;
+}
+.navbar{
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(112, 133, 219, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+div#navbarScroll {
+    flex-grow: unset;
+}
+.loginlink{
+    font-size: 19px;
+            color: #ffffff;
+        font-weight: 600;
+}
+span.navbar-brand {
+    cursor: pointer;
+}
+div#navbarScroll a {
+    margin-left: 12px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+div#navbarScroll a:hover {
+    color: #7084DB;
+}

@@ -1,0 +1,33 @@
+.login-form {
+    width: 30%;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 12px;
+    background: #ebebeb;
+    color: #4949b0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.loginForm{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+}
+button.btn.btn-primary {
+    background: #40802d;
+    border: none;
+}
+.createAccount{
+    display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+}
+.createAccount p{
+    cursor:pointer;
+}
+.userloginpage{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+}
